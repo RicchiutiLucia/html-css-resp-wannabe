@@ -159,3 +159,14 @@ img {
     }
 }
 
+/*Sopra i 768px e fino ai 1160px*/
+@media all and (max-width: 769px){
+    .container{
+        width: 770px;
+    }
+}
+@media all and (max-width: 1160px){
+    .container{
+        width: 770px;
+    }
+}
